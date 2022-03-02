@@ -44,4 +44,4 @@
     </div>
 </p>
 
-![stats](https://github-readme-stats.vercel.app/api?username=akladyous&hide=contribs,prs)
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=akladyous&hide=contribs,prs) -->
