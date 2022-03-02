@@ -1,13 +1,12 @@
 <h1>Hi 👋 Welcome to my GitHub</h1>
 <h3>Full-stack Software Engineer with a passion for finding meaningful insights</h3>
-
-- Full-Stack React-Ruby on rails API [Pet Finder](https://github.com/akladyous/pet-finder)
-
-- 💬 Ask me about **NLP,React, Ruby, Rails**
+<br>
+<hr class="solid">
 
 - 📫 How to reach me **akladyous@gmail.com**
-
+<br>
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
     <a href="https://linkedin.com/in/akladyous" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -44,8 +43,10 @@
 </p>
 
 <p>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=akladyous&show_icons=true&locale=en&layout=compact" alt="akladyous" />
+    <div style="width: 300px;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akladyous&show_icons=true&locale=en&layout=compact" alt="akladyous" />
+    </div>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akladyous&hide=contribs,prs)
+    <div style="width: 300px;">
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akladyous&hide=contribs,prs)
+    </div>
