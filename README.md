@@ -44,5 +44,8 @@
     </div>
 </p>
     <div style="width: 300px;">
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akladyous&hide=contribs,prs)
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
     </div>
+
+
+
