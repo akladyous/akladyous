@@ -36,10 +36,11 @@
         
 </p>
 
+<!--
 <p>
     <div style="width: 300px;">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akladyous&show_icons=true&locale=en&layout=compact" alt="akladyous" />
     </div>
 </p>
-
+-->
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=akladyous&hide=contribs,prs) -->
