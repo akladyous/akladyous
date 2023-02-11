@@ -5,7 +5,8 @@
 <h3 align="left">Connect with me:</h3>
 <br/>
 <p align="left">
-    <a href="https://www.akladyous.it" target="blank">My Portfolio</a>
+
+    <a href="https://akladyous.it" target="blank"></a>
 </p>
 <br/>
 <p align="left">
