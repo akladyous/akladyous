@@ -4,8 +4,9 @@
 <!-- 📫 How to reach me **akladyous@gmail.com** -->
 <h3 align="left">Connect with me:</h3>
 <br/>
-<a href="https://www.akladyous.it" target="blank">My Portfolio</a>
-<br/>
+<p align="left">
+    <a href="https://www.akladyous.it" target="blank">My Portfolio</a>
+</p>
 <br/>
 <p align="left">
     <a href="https://linkedin.com/in/akladyous" target="blank"><img align="center"
