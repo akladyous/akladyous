@@ -8,7 +8,9 @@
     <a href="https://akladyous.it" target="blank">
         <img align="center"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greek_lc_lamda_thin.svg/220px-Greek_lc_lamda_thin.svg.png"
-            alt="lambda" height="30" width="35" />
+            alt="lambda" height="30" width="35">
+        <span>My Portfolio</span>
+        </img>
     </a>
 </p>
 <br/>
