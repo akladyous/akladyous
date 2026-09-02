@@ -1,10 +1,9 @@
 <h1>Welcome to my GitHub</h1>
-### Hi there 👋 I'm Boula
-<h3>Cybersecurity enthusiast with a passion for finding meaningful insights and securing the digital landscape.</h3>
-<!-- <hr class="solid"> -->
-<!-- 📫 How to reach me **akladyous@gmail.com** -->
-<h3 align="left">Connect with me:</h3>
+<h4>Hi there 👋 I'm Boula</h4>
+<h4>Cybersecurity enthusiast with a passion for finding meaningful insights and securing the digital landscape.</h4>
 
+<p align="left">Got a cyber threat lurking somewhere in a sprawling attack surface, or need to cook up some smart security tools with Agentic AI?</p>
+<h4 align="left">I got you! Don’t be a stranger — let’s keep in touch. 👋</h4>
 <a href="https://www.boula.me">www.boula.me</a> <br/> <br/>
 
 <p align="left">
