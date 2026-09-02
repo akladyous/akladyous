@@ -4,7 +4,7 @@
 <!-- 📫 How to reach me **akladyous@gmail.com** -->
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.boula.me" target="_blank" rel="nofollow">www.boula.me</a> <br/> <br/>
+<a href="https://www.boula.me">www.boula.me</a> <br/> <br/>
 
 <p align="left">
     <a href="https://linkedin.com/in/akladyous" target="blank"><img align="center"
