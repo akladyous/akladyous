@@ -1,5 +1,5 @@
 <h1>Hi 👋 Welcome to my GitHub</h1>
-<h3>Full-stack Software Engineer with a passion for finding meaningful insights</h3>
+<h3>Cybersecurity enthusiast with a passion for finding meaningful insights and securing the digital landscape.</h3>
 <!-- <hr class="solid"> -->
 <!-- 📫 How to reach me **akladyous@gmail.com** -->
 <h3 align="left">Connect with me:</h3>
